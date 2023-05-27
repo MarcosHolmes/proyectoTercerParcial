@@ -5,9 +5,10 @@ Proyecto tercer parcial
 ## Getting Started
 Para probrar el sitio hay que:
 1. Clonar el siguiente repositorio: https://github.com/MarcosHolmes/proyectoTercerParcial
-2. Abrir Android Studio Code
-3. Abrir el proyecto My_First_App
-4. Ejecutar un AVD (Android Virutal Device) para probar la aplicación
+2. Descomprimir My_First_App.zip
+3. Abrir Android Studio Code
+4. Abrir el proyecto My_First_App
+5. Ejecutar un AVD (Android Virutal Device) para probar la aplicación
 
 ### Prerequisites
 Tener Android Studio Code, Java JDK, y todas las dependencias necesarias.
